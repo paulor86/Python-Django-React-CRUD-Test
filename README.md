@@ -2,14 +2,14 @@
 
 ## Pré Requisitos
 
-1 - Python
-2 - Pip  
-3 - Django
-4 - Django Rest Framework
-5 - Django Cors Headers
-6 - Node.js / NPM 
-7 - React
-8 - Visual Studio Code (React/Python-Django) / PyCharm (Python Django)
+1. Python
+2. Pip  
+3. Django
+4. Django Rest Framework
+5. Django Cors Headers
+6. Node.js / NPM 
+7. React
+8. Visual Studio Code (React/Python-Django) / PyCharm (Python Django)
 
 ## Instalação
 
@@ -34,19 +34,19 @@ No caso usaremos como Front-End o React para acessar os recursos do Django.
 e muita dor de cabeça para o desenvolvedor. Para resolver este problema, o mais correto é a criação de um ambiente 
 virtual para cada projeto.  
 
-1 - Pelo terminal, acesse a unidade C:\Users\NomeUsuário\AppData\Local\Programs\Python\Python38-32\Lib\site-packages 
+1. Pelo terminal, acesse a unidade C:\Users\NomeUsuário\AppData\Local\Programs\Python\Python38-32\Lib\site-packages 
 digte pip install virtualenv.
 
-2 - Depois de instalado, você poderá criar uma virtualenv em seus projetos.
+2. Depois de instalado, você poderá criar uma virtualenv em seus projetos.
 
-3 - Na pasta onde está os seus projetos Python (exemplo pelo terminal acesse C:\Projetos Python\Nome do projeto 
+3. Na pasta onde está os seus projetos Python (exemplo pelo terminal acesse C:\Projetos Python\Nome do projeto 
 digite virtualenv venv(nome sugestão) então irá criar uma virtualenv no seu projeto.
 
-4 - Agora acesse a pasta do seu projeto e você verá uma pasta criada.
+4. Agora acesse a pasta do seu projeto e você verá uma pasta criada.
 
-5 - Acesse pelo terminal C:\Projetos Python\react-django\backend\ digite source venv\Scripts\activate.
+5. Acesse pelo terminal C:\Projetos Python\react-django\backend\ digite source venv\Scripts\activate.
 
-6 - Pronto você estará na sua virtualenv venv. 
+6. Pronto você estará na sua virtualenv venv. 
 
 Com a virtulenv instalada e configurada no seu ambiente, podemos iniciar a instalação do Django DjangoRestFramework Django-Cors-Headers.
 
